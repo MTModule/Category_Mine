@@ -1,0 +1,24 @@
+PODS:
+  - Category_Mine (0.1.0):
+    - CTMediator
+  - CTMediator (44)
+
+DEPENDENCIES:
+  - Category_Mine (from `../`)
+  - CTMediator
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  Category_Mine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Category_Mine: a58e1e28c5a86373695bb9c62415f72c1046bad0
+  CTMediator: 933dba523da87bf875e4a7e8728945fbc512f1d2
+
+PODFILE CHECKSUM: f0621ed03999dee38695387fb0b807de7fac1e35
+
+COCOAPODS: 1.9.3
