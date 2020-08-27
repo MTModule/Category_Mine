@@ -8,7 +8,7 @@
 #import "CTMediator+Mine.h"
 
 NSString * const kCTMediatorTargetHome = @"Mine";
-NSString * const kCTMediatorActionRootViewController = @"rootViewController";
+NSString * const kCTMediatorActionRootViewController = @"getRootVC";
 
 @implementation CTMediator (Mine)
 
