@@ -1,5 +1,5 @@
 PODS:
-  - Category_Mine (0.1.2):
+  - Category_Mine (0.1.3):
     - CTMediator
   - CTMediator (44)
 
@@ -16,7 +16,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Category_Mine: 5ba71d1ec85790ef4f543abdb28b5476ad585aac
+  Category_Mine: ad7bf780f5378de4d7d2d590a806d6855b2b62d0
   CTMediator: 933dba523da87bf875e4a7e8728945fbc512f1d2
 
 PODFILE CHECKSUM: f0621ed03999dee38695387fb0b807de7fac1e35
